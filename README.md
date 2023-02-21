@@ -1,0 +1,2 @@
+# information_retrieval_playground
+Testing some Information Retrieval algorithms
