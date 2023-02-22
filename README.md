@@ -49,6 +49,6 @@ What problems and concerns are there in making up descriptive titles?
 What difficulties are involved in automatically retrieving articles from approximate titles? 
 What is the usual relevance of the content of articles to their titles?'''
 
-# Retrieving documents for both algorithm implementations 
+# Retrieving documents based on user's query
 retrieved_docs = search_engine.retrieve_docs_from_query(query, n=10)
 ````
